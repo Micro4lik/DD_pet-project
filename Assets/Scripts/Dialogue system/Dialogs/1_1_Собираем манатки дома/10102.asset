@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b7bdbcb3a083864fbe5d67c0ce40d48, type: 3}
+  m_Name: 10102
+  m_EditorClassIdentifier: 
+  characterSprite: {fileID: 21300000, guid: 7fa54c33e4a32e54a8953a1c54c343e0, type: 3}
+  charaterName:
+  - Stephen
+  firstCharStatus: 2
+  secondCharStatus: 1
+  replicaText:
+  - Some food and a couple of potions - that's all I need. I`ll be back in no time!

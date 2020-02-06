@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3953304ac93f1584b9e041276bcaff4f, type: 3}
+  m_Name: 1_2_sbor_trav
+  m_EditorClassIdentifier: 
+  introDialog: {fileID: 11400000, guid: eebe2a83fc9ac4e4281ce4d145d1b536, type: 2}
+  templateName: 
+  background:
+  - {fileID: 244495031228897323, guid: 1d1714cf2c177b14c9ec93c7bfd66d34, type: 3}
+  - {fileID: 4948759595919936711, guid: 4e9aa85678803914db2439aa7da79312, type: 3}
+  - {fileID: 1802262428536529365, guid: 3ccdaeb1e0ae5614ca9a0abafd987860, type: 3}
+  - {fileID: 2916760329434663335, guid: ad6efdc2fd6beb8449ba48917487a533, type: 3}
+  - {fileID: 1138568430287680637, guid: 33a26091fe56c33418f712a7e42e615d, type: 3}
+  - {fileID: 142844248323551995, guid: a8a364b676ec5c540a1866675a7d7c98, type: 3}
+  - {fileID: 8369552574254697148, guid: f40012d208861da4f979925b1ec8e14b, type: 3}
+  - {fileID: 2755380700326471561, guid: 6c67f1c205af1b94785a4e27b7a71a4f, type: 3}
+  shirt: {fileID: 21300000, guid: a93de9becdfd7454cb14729a3061c233, type: 3}
+  levelSize: 16
+  necessaryObjects:
+  - {fileID: 11400000, guid: d1ca173dbaf763548a37d9a4e72544f1, type: 2}
+  - {fileID: 11400000, guid: 7eda4bde38b9a224f87d2be400fe6b0f, type: 2}
+  - {fileID: 11400000, guid: 3a3937adcd7df6246951eca95bc1dba7, type: 2}
+  - {fileID: 11400000, guid: b762829a29418ef499969963cc49bef6, type: 2}
+  - {fileID: 11400000, guid: 6b2c838e648f29041ba3a01e3bd80793, type: 2}
+  levelColumns: 4
+  emptyCellsArray: 

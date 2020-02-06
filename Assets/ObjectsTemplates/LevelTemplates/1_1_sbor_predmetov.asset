@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3953304ac93f1584b9e041276bcaff4f, type: 3}
+  m_Name: 1_1_sbor_predmetov
+  m_EditorClassIdentifier: 
+  introDialog: {fileID: 11400000, guid: 80f925caa3cde2e449e35c6cc08aff2c, type: 2}
+  templateName: 
+  background:
+  - {fileID: 244495031228897323, guid: e6547fa15f06ad84db37b6eed43d9fae, type: 3}
+  shirt: {fileID: 21300000, guid: 70038c3175d79c44a9eaeab879aac482, type: 3}
+  levelSize: 15
+  necessaryObjects: []
+  levelColumns: 5
+  emptyCellsArray: 0000000004000000070000000a0000000e000000
